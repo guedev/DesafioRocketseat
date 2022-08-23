@@ -6,19 +6,17 @@
 h1 {
     font-family: 'Silkscreen', cursive;
     color: blueviolet;
-    display: inline-block;
 }
 
 .container {
     background-color: bisque;
-    padding: .5em;
-    text-align: center;
-    /* display: flex; */
+    padding: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .container img {
     width: 3em;
-    display: inline-block;
-    margin-top: 2em;
     margin-left: 1em;
 }

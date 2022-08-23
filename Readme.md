@@ -1,3 +1,5 @@
+<strong>DESAFIO 21 DIAS DE CÓDIGO</strong>
+
 Repositório destinado ao Desafio 21 dias de Código, proposto pela Rocketseat.
 
 Ele será atualizado ao decorrer dos dias, seguindo o seguinte cronograma:
