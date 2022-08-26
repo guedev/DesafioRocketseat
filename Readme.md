@@ -4,9 +4,9 @@ Repositório destinado ao Desafio 21 dias de Código, proposto pela Rocketseat.
 
 Ele será atualizado ao decorrer dos dias, seguindo o seguinte cronograma:
 
-1 - Criação do Repositório<br />
-2 - Hello World customizado, com fontes, cores, e imagens<br />
-3 - Botão Animado<br />
+1 - Criação do Repositório ✅ <br /> 
+2 - Hello World customizado, com fontes, cores, e imagens  ✅ <br />
+3 - Botão Animado ✅ <br />
 4 - Calculadora<br />
 5 - Página Customizada para exibir o erro 404<br />
 6 - Card com efeito glassmorphism<br />
