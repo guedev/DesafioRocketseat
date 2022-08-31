@@ -1,0 +1,82 @@
+.card {
+  margin-top: 15px;
+  width: 20%;
+  background: rgba(255, 255, 255, 0.24);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(7.8px);
+  -webkit-backdrop-filter: blur(7.8px);
+  border: 1px solid rgba(255, 255, 255, 0.77);
+}
+
+.card--header img {
+  width: 100%;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.card--title {
+  padding: 20px 40px 20px 20px;
+  display: flex;
+}
+
+.card--title img {
+  width: 50px;
+}
+
+.card--title h1 {
+  margin-left: 15px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  color: #3b3b3b;
+}
+
+.card--title p {
+  position: absolute;
+  margin-top: 30px;
+  margin-left: 65px;
+  font-family: "Open Sans", sans-serif;
+}
+
+.card--info {
+  padding: 10px 50px 20px 40px;
+  font-family: "Open Sans", sans-serif;
+}
+
+.card--info li {
+  margin-bottom: 5px;
+  list-style-type: none;
+  font-size: 14.5px;
+}
+
+.btn {
+  margin-top: 15px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.btn button {
+  background-color: #34af23;
+  width: 50%;
+  padding: 15px;
+  cursor: pointer;
+  outline: none;
+  border-radius: 5px;
+  border: none;
+}
+
+.btn a {
+  text-decoration: none;
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 15px;
+  transition: 500ms;
+}
+
+.btn button:hover {
+  background-color: #24501e;
+  transition: 400ms;
+}
