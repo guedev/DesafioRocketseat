@@ -80,3 +80,10 @@
   background-color: #24501e;
   transition: 400ms;
 }
+
+
+@media (max-width: 1700px) {
+  .card {
+    width: 30%;
+  }
+  }
