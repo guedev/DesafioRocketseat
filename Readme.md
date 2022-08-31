@@ -26,4 +26,3 @@ Ele será atualizado ao decorrer dos dias, seguindo o seguinte cronograma:
 20 - Site de emoji picker <br />
 21 - Portifólio  <br />
 
-Aguardando divulgação dos desafios seguintes...
