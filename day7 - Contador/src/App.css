@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+
+.container {
+  align-items: center;
+  text-align: center;
+}
+
+.card {
+  display: inline-block;
+  background-color: #ffe4c4;
+  width: 50%;
+  margin-top: 3em;
+  box-shadow: 10px 5px 5px rgb(199, 174, 143);
+}
+
+h1 {
+  display: inline-block;
+  text-align: center;
+  align-items: center; 
+  font-family: 'Silkscreen', cursive;
+  color: blueviolet;
+  font-size: 5em;
+}
+
+.plusButton,
+ .minusButton {
+  display: inline-block;
+  cursor: pointer;
+  padding: 1em 5em 1em 5em;
+  margin: 1em 0 3em 0;
+  border: none;
+}
+
+.plusButton {
+  background-color: rgb(153, 153, 153);
+}
+
+.plusButton:hover {
+  background-color: rgb(177, 176, 176);
+}
+
+.minusButton {
+  background-color: rgb(231, 230, 230);
+}
+
+.minusButton:hover {
+  background-color: rgb(207, 205, 205);
+}
+
+.text {
+  font-size: 4em;
+  margin: -0.5em 0 0.5em 0;
+  font-family: 'Silkscreen', cursive;
+}
+
+
+
+/* Campo de Input */
+
+.inputLimit {
+  margin-top: 2em;
+}
+
+
+footer {
+  margin-top: 2em;
+  color: #113155;
+}
