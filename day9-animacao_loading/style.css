@@ -99,4 +99,9 @@ body{
     color: #fff;
   }
   
-  
+  footer {
+    display: flex;
+    justify-content: center;
+    color:#fff;
+    margin-top: 50em;
+  }
