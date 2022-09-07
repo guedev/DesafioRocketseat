@@ -12,7 +12,7 @@ Ele será atualizado ao decorrer dos dias, seguindo o seguinte cronograma:
 6 - Card com efeito glassmorphism  ✅<br /> 
 7 - Contador ✅ <br />
 8 - Toggle para alterar tema ✅<br />
-9 - Animação de Loading<br />
+9 - Animação de Loading ✅ <br />
 10 - Utilizar a lib Particle.js <br />
 11 - Layout para formulário de Login<br />
 12 - Galeria de Imagens<br />
