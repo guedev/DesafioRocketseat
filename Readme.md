@@ -14,7 +14,7 @@ Ele será atualizado ao decorrer dos dias, seguindo o seguinte cronograma:
 8 - Toggle para alterar tema ✅<br />
 9 - Animação de Loading ✅ <br />
 10 - Utilizar a lib Particle.js  ✅<br />
-11 - Layout para formulário de Login<br />
+11 - Layout para formulário de Login  ✅<br />
 12 - Galeria de Imagens<br />
 13 - Menu responsivo<br />
 14 - Formulário de Quizzes<br />
